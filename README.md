@@ -6,6 +6,23 @@ The project demonstrates how data visualisation can be used to transform raw dat
 
 ---
 
+## 🔗 Live Dashboards
+
+👉 [View Interactive Dashboards](https://public.tableau.com/app/profile/marta.rutkowska.kaine/vizzes)
+
+<img width="700" height="320" alt="image" src="https://github.com/user-attachments/assets/9f67656b-5e1e-4978-a8b1-5b2ff2274483" />
+
+
+
+<img width="700" height="320" alt="image" src="https://github.com/user-attachments/assets/3cf55096-9c54-48b0-b808-2dc72c3fbbc2" />
+
+
+
+<img width="700" height="320" alt="image" src="https://github.com/user-attachments/assets/8266bcbc-13c9-41c8-897f-1050b3ef4b1c" />
+
+
+---
+
 ## 📁 Project Overview
 
 Using Tableau, I analysed datasets to explore trends in areas such as **health metrics, population data, and music analytics**.
@@ -100,4 +117,4 @@ These are essential skills for **Data Technician and Junior Data Analyst roles**
 
 - Tableau workbook files
 - Dataset files used for analysis
-- Screenshots of dashboards
+- Dashboards
